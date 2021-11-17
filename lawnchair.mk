@@ -3,6 +3,7 @@ LAWN_ROOT := packages/apps/Lawnchair
 
 PRODUCT_PACKAGES += \
     Lawnchair \
+    Lawnicons \
     Lawnfeed
 
 PRODUCT_PACKAGE_OVERLAYS += $(LAWN_ROOT)/overlay
